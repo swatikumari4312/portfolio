@@ -133,7 +133,6 @@ body{
 }
 .about{
     background-color:#1a1a2e;
-    color: bisque;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
